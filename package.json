@@ -4,7 +4,7 @@
   "description": "A simple React-based progressive web app that displays Accelerated Mobile Page (AMP) content.",
   "private": true,
   "license": "Apache-2.0",
-  "proxy": "http://localhost:4000",
+  "proxy": "http://github.com/MalickGalant/ampflyingblog",
   "devDependencies": {
     "express": "4.16.4",
     "react-scripts": "2.1.3",
