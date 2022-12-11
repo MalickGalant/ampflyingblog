@@ -1,10 +1,11 @@
-# Create React App with AMP
+# Create React App
 
-A simple React-based [progressive web app](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) that displays [Accelerated Mobile Page (AMP)](https://ampproject.org) content. Built on [create-react-app](https://github.com/facebookincubator/create-react-app) for minimal build configuration.
+A React-based [progressive web app](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) that displays [Accelerated Mobile Page (AMP)](https://ampproject.org) content. Built on [create-react-app](https://github.com/facebookincubator/create-react-app) for minimal build configuration.
 
-To see it in action, go to http://choumx.github.io/amp-pwa.
+To see it in action, go to http://malickgalant.github.io/ampflyingblog.
 
-## Table of Contents
+## Table Of Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -25,13 +26,14 @@ To see it in action, go to http://choumx.github.io/amp-pwa.
 ### Quick Start
 
 ```sh
-git clone git@github.com:choumx/amp-pwa.git
-cd amp-pwa
+git clone git@github.com:MalickGalant/ampflyingblog.git
+cd ampflyingblog
 npm install
 npm start
 ```
 
 In a **separate terminal**, start the development API server:
+
 ```sh
 node server.js
 ```
@@ -70,7 +72,7 @@ Compared to `create-react-app`, this project adds a small number of new dependen
 ### New files
 
 ```
-amp-pwa/
+ampflyingblog/
   content/
   manifest.webmanifest
   server.js
